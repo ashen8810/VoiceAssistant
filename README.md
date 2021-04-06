@@ -14,7 +14,7 @@ Your personal voice assistant. Written in Python.
 
 Features -> Usage Examples:
 ---------------
-Say "Hey Flash" to wake him up...
+Say "Hello Flash" to wake him up...
 
 - 1 Text to speech
 - 2 Write notes - (write note)
