@@ -1,3 +1,5 @@
+![Python 3.5, 3.6, 3.7](https://img.shields.io/pypi/pyversions/vk_songs.svg)
+
 ## VoiceAssistant
 A Voice Assistant for Windows
 FLASH Voice Assistant
